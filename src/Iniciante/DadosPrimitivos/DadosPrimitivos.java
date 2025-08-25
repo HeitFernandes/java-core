@@ -1,4 +1,4 @@
-package Begginer.DadosPrimitivos;
+package Iniciante.DadosPrimitivos;
 
 
 public class DadosPrimitivos {

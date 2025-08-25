@@ -1,4 +1,4 @@
-package Intermediary.Streams;
+package Intermediario.Streams;
 
 public class Ninja {
 

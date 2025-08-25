@@ -1,4 +1,4 @@
-package Intermediary.Streams;
+package Intermediario.Streams;
 
 import java.util.ArrayList;
 import java.util.List;
